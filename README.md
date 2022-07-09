@@ -3,4 +3,4 @@
 
 Para visualizar o resultado final <a href= "https://shayane1.github.io/Quizz-JS/index.html" target="_blank"> clique aqui </a>
 
- Feito com ❤️ por Shayane Santos
+
